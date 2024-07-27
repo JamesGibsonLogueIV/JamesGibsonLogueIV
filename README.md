@@ -4,8 +4,9 @@
 
 - <b>Microsoft Azure</b>
   - [Azure: Creating a Virtual Machine](http://github.com/JamesGibsonLogueIV/osticket-prereqs)
+  - [Azure: Connecting to a Virtual Machine Remotely](https://github.com/joshmadakorcchi/ticket-lifecycle)
   - [Azure: Networking between two Virtual Machines](https://github.com/joshmadakorcchi/post-install-config)
-  - [osTicket: Installing osTicket](https://github.com/joshmadakorcchi/ticket-lifecycle)
+  
 
 <h2>🤳Connect with me:</h2>
 

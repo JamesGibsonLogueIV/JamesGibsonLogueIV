@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Azure: Creating a Virtual Machine](http://github.com/JamesGibsonLogueIV/osticket-prereqs)
   - [Azure: Connecting to a Virtual Machine Remotely](https://github.com/JamesGibsonLogueIV/Remote-Desktop-Connection)
-  - [Azure: Networking between two Virtual Machines](https://github.com/joshmadakorcchi/post-install-config)
+  - [Azure: Networking between two Virtual Machines](https://github.com/JamesGibsonLogueIV/Networking-Between-Two-Virtual-Machines)
   
 
 

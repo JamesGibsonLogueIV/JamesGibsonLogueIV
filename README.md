@@ -14,4 +14,4 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/james-logue-iv-8536a9190/)
+[linkedin]: (https://www.linkedin.com/in/james-logue-iv-8536a9190/)
